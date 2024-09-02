@@ -90,11 +90,10 @@ def game_dict():
                 },
             ],
         },
-            
         "away": {
             "team_name": "Washington Wizards",
             "colors": ["Red", "White", "Navy Blue"],
-            "players": [   
+            "players": [
                 {
                     "name": "Bradley Beal",
                     "number": 3,
@@ -179,6 +178,46 @@ def game_dict():
                     "height_inches": 80,
                     "shoe_brand": "Jordan",
                 },
-            ]
-        }
+            ],
+        },
     }
+
+
+def num_points_per_game(player_name):
+    pass
+
+
+def player_age(player_name):
+    pass
+
+
+def list_colors(team_name):
+    pass
+
+
+def team_names(dictionary):
+    pass
+
+
+def player_numbers(team_name):
+    pass
+
+
+def player_stats(lplayer_name):
+    pass
+
+
+def average_rebounds_by_shoe_brand(shoe_brand):
+    pass
+
+
+def highest_career_points():
+    pass
+
+
+def jersey_numbers_in_both_teams():
+    pass
+
+
+def player_with_longest_name():
+    pass
